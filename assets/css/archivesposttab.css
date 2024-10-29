@@ -1,0 +1,90 @@
+#archivesposttab {	margin:0; padding:0; font-size:12px; font-weight:normal; text-transform: none;} 
+#archivesposttab a { border-bottom:0;text-decoration:none}
+#archivesposttab .ik-panel-tab-title-head{ color:#fff; font-weight:bold; margin-bottom:2px; font-size: 15px; padding:8px 13px;} 
+#archivesposttab .wp-load-icon { display:none; margin-left:10px; width:10px; height:10px; background-color:#fff; } 
+#archivesposttab .item-panel-list{ background: none; padding:0; margin:0px 0px 2px 0px; color:#424242; border: 1px solid #ebebeb;	  }
+#archivesposttab .item-posts { background: #F7F7F7; border: 1px solid rgb(236, 236, 236); padding: 10px; }  
+#archivesposttab .ik-prouct-search-text { width:60px; padding:3px;}
+#archivesposttab .panel-item{ cursor:pointer; background: #F1F1F1; padding:0px 25px 0px 13px;font-weight:normal; font-size: 12px;  border-left:1px solid #696969;  }
+#archivesposttab .panel-item{  	position: relative;	-webkit-transition: all 0.4s;overflow: hidden;transition: all 0.4s; -moz-transition: all 0.4s;} 
+#archivesposttab  input.ik-post-search-text { height:29px; font-size: 12px; margin:0; width:100%; border:1px solid #ccc; padding:0px 2px }
+#archivesposttab  select.ik-drp-post-category { height:26px; font-size: 12px; margin:0; text-align: left; width:100%;  border:1px solid #ccc; padding:0 1px; }
+#archivesposttab .ik-post-category {   padding:10px 3px; }
+#archivesposttab .ik-post-category span{ float:left; width:20px; height:20px}
+#archivesposttab .ik-post-category .ik-search-title { float:left; width:164px;margin-right:10px;font-weight: normal; }
+#archivesposttab .ik-post-category .ik-search-button { cursor:pointer; width:18px; height:18px; float:left;  padding-top: 3px; margin-left: 7px; }
+#archivesposttab .ik-post-category  .ik-search-category { width:164px;  float:left;font-weight: normal;  }
+#archivesposttab .ik-post-item { float:left;padding:5px 0 0 0; margin:0 0.5%}
+#archivesposttab .ik-post-item p { margin:0; padding:0}
+#archivesposttab .ik-post-load-more{ cursor:pointer;  text-align:center; padding:10px 5px 5px; text-align:center; 	font-size: 12px;font-weight:bold; clear:both; padding-bottom: 10px;	position: relative;	-webkit-transition: all 0.8s;overflow: hidden;transition: all 0.8s; 	-moz-transition: all 0.8s; }
+#archivesposttab .ik-post-load-more:before {	content:url("../images/ac_bottom.png");	height: 100%; -webkit-transition: all 0.8s;-moz-transition: all 0.8s; position: absolute; top:55%; left: 49%; 	transition: all 0.8s; }
+#archivesposttab .ik-post-load-more:hover:before {top: 1%;} 
+#archivesposttab .ik-post-load-more:hover { color:#0e83cd !important; }
+#archivesposttab  .ik-post-content .ik-post-name { margin-top:5px; font-size: 12px; word-wrap:break-word}
+#archivesposttab  .ik-post-content .ik-post-name a { text-decoration:none; border:0; word-wrap:break-word;font-weight: normal;}
+#archivesposttab  .ik-post-content .ik-post-name a:hover{ transition: all 0.5s ease-out 0.7s; color:#ccc;font-weight: normal; } 
+#archivesposttab  .ik-post-image img { width:100%} 
+#archivesposttab  .ik-post-no-items { padding:10px 10px 10px 4px; font-size:13px }
+#archivesposttab .panel-item{ clear:both; position:relative}
+#archivesposttab  .panel-item-text {   float:left; min-height:18px;margin: 8px 0;}
+#archivesposttab  .ld-panel-item-text  { width:22px; height:22px; right:1%;  position:absolute; top:9px }
+#archivesposttab  .ik-load-content-cnt { width:20px; height:20px; -webkit-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);	-moz-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);   margin-top:0px; padding:1px; display:block;  background-color:#f7f7f7; -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;    }
+#archivesposttab  .ik-load-content { width:20px; height:20px; }
+#archivesposttab  .ik-load-content-more { padding:10px;  transition: all 0.4s ease 0s; }
+#archivesposttab  .ik-load-content-more:hover { color:#fff !important; }
+#archivesposttab  .clr, #archivesposttab  .clrb { clear:both}
+#archivesposttab  .ik-post-image { position :relative; }
+#archivesposttab div.ov-layer  .ik-overlay-post-content  { margin-top:0px;color:#000;background:#fff; padding:5px; border-bottom:1px solid #fff;border-top:1px solid #fff; }
+#archivesposttab div.ov-layer  .ik-overlay-post-content .ik-post-name {line-height:16px;text-decoration:none;}
+#archivesposttab div.ov-layer  .ik-overlay-post-content .ik-post-name a {  border:0; text-decoration:none; position:relative }  
+#archivesposttab div.ov-layer {display:block; visibility:hidden;position:relative; top:40px; left:0;-webkit-transition: -webkit-transform 1s;   position: absolute; -o-transition-duration: 1s; 	width:  100%; -moz-transition-duration: 1s;  -webkit-transition: -webkit-transform 1s; z-index: 10; cursor: pointer; height: 100%;  background:url(../images/view.png) right bottom no-repeat #000; opacity: 0; color:#fff; font-size:13px;} 
+#archivesposttab div.ov-layer:hover {box-shadow: 0px 0px 3px #000;-moz-transition-duration: 1s; -webkit-transition: -webkit-transform 1s; -o-transition-duration: 1s; -webkit-box-shadow: 0px 0px 3px #333; -moz-box-shadow: 0px 0px 3px #333; opacity: .6;}  
+#archivesposttab button { margin:0px; padding:0px; float:none;}
+#archivesposttab .btn-crt, #archivesposttab #btnSearch { padding:0px; margin:0px; border:0px; background: #EBEBEB !important; color: #464646; padding:3px 8px; font-size:11px; width:100% }
+#archivesposttab .btn-crt { margin:5px 0; font-style:normal; cursor:pointer;font-weight: normal;position: relative;	-webkit-transition: all 0.8s;overflow: hidden;transition: all 0.8s; -moz-transition: all 0.8s; -webkit-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);-moz-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 3px #DBDBDB;  } 
+#archivesposttab .btn-crt:hover{ color:#0e83cd !important; }
+#archivesposttab .btn-crt:before { height: 100%; -webkit-transition: all 0.8s; -moz-transition: all 0.8s; position: absolute;	top:20%; left: 125%; transition: all 0.8s; }
+#archivesposttab .bt-cart:before {	content:url("../images/cart.png"); }	
+#archivesposttab .post_wc_view:before {	content:url("../images/view-more.png"); }	
+#archivesposttab .btn-crt:hover:before { left: 88%; }
+#archivesposttab .item-posts{ padding:0 10px 0px 10px; background-color:#fff}
+#archivesposttab  .pn-active, #archivesposttab  .pn-active-bg{ background-color:#FEFEFE !important;     } 
+#archivesposttab input.ik-post-search-text:focus, 
+#archivesposttab select.ik-drp-post-category:focus { background-color:#FFF; } 
+#archivesposttab .ik-post-content .ik-post-date,
+#archivesposttab .ik-post-content .ik-post-comment,
+#archivesposttab div.ov-layer  .ik-overlay-post-content .ik-post-date,
+#archivesposttab div.ov-layer  .ik-overlay-post-content .ik-post-comment { color:#333; font-weight: normal; text-decoration:none; border:0; font-size: 11px; word-wrap:break-word; min-height:20px; }
+
+#archivesposttab.pane_style_1  .panel-item{ border-left:0 !important; }
+
+/* Pane Style 2 Start */
+#archivesposttab.pane_style_2 .item-panel-list, #archivesposttab.pane_style_2 .ik-panel-tab-title-head {	border: 1px solid #e7e7e7;  border-radius: 0px; }
+#archivesposttab.pane_style_2 .panel-item{ -webkit-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1);-moz-box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 1px #fff inset, 1px 1px 3px rgba(0, 0, 0, 0.1); } 
+ /*Pane Style 2 End */
+
+ /* Pane Style 3 Start */ 
+#archivesposttab.pane_style_3 .item-panel-list, #archivesposttab.pane_style_3 .ik-panel-tab-title-head{ border:0!important;-webkit-border-radius:18px;-moz-border-radius:18px;border-radius:18px; 	 }
+#archivesposttab.pane_style_3 .panel-item{-webkit-border-radius:18px !important; border:1px solid #ececec !important;	-moz-border-radius:18px !important;-webkit-border-radius:18px !important;	border-radius:18px !important;  }  
+/* Pane Style 3 End */  
+ 
+#archivesposttab .disp_title_over_img .ik-post-item { min-height:auto !important }
+#archivesposttab .lt-tab .item-panel-list { width:auto; float:left;	margin-right:2px;}
+#archivesposttab .lt-tab .item-panel-list .ik-load-content{ margin-left:5px;}
+
+/* RTL Support Start */
+#archivesposttab.apcp-rtl-enabled {text-align:right;} 
+#archivesposttab.apcp-rtl-enabled .ik-panel-tab-title-head  {text-align:right;}
+#archivesposttab.apcp-rtl-enabled .panel-item-text {float:right; background-position: right center; padding-left:0; padding-right:22px;} 
+#archivesposttab.apcp-rtl-enabled  .panel-item { padding-right:13px;}
+#archivesposttab.apcp-rtl-enabled .ik-post-search-text {text-align:right;} 
+#archivesposttab.apcp-rtl-enabled .ld-panel-item-text { right: 15px; }
+/* RTL Support END */
+ 
+@media only screen and (max-width: 1280px) { #archivesposttab .ik-post-item { width: 20%; } }
+@media only screen and (max-width: 1024px) { #archivesposttab .ik-post-item { width: 25%; } }
+@media only screen and (max-width: 768px) { #archivesposttab .ik-panel-tab-title-head  { font-size:12px} }
+@media only screen and (max-width: 640px) {	#archivesposttab .ik-post-item { width: 33%; } }
+@media only screen and (max-width: 480px) {	#archivesposttab .ik-post-item { width: 50%; } }
+@media only screen and (max-width: 360px) { #archivesposttab .ik-post-category .ik-search-title { width: 128px; } 	#archivesposttab .ik-post-category .ik-search-category { width: 139px; } }
+@media only screen and (max-width: 320px) { #archivesposttab .ik-post-category .ik-search-category { width: 101px; } } 
